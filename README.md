@@ -1,5 +1,5 @@
-## ENTER YOUR NAME: Nivetha A
-## ENTER YOUR REGISTER NO.: 212222230101
+<H3>ENTER YOUR NAME: NIVETHA A</H3>
+<H3>ENTER YOUR REGISTER NO.: 212222230101</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
@@ -59,7 +59,7 @@ print("The most likely sequence of Weather States is",most_likely_sequence)
 ```
 
 ## Output:
-![369925250-8225e7a3-e0dc-4a55-8705-6b761585e1ad](https://github.com/user-attachments/assets/e0f99604-7538-4e43-8873-c79136095fba)
+![369925250-8225e7a3-e0dc-4a55-8705-6b761585e1ad](https://github.com/user-attachments/assets/2313ad1e-082c-4155-89ff-df17a2746d45)
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
